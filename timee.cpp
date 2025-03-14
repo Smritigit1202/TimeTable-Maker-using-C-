@@ -1,4 +1,4 @@
-#include "scalar.h"
+#include "timee.h"
 
 template <typename T>
 scalar<T>::scalar() : n(0), capacity(1), data(new T[1]) {}

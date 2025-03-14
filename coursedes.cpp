@@ -1,4 +1,4 @@
-#include "course.h"
+#include "coursedes.h"
 
 course::course() : n_lectures(0), n_tut(false), n_lab(false), pr(){};
 
